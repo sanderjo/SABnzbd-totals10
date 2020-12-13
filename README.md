@@ -13,7 +13,7 @@ with open('totals10.sab', 'rb') as handle:
 	pprint.pprint(b)
 ```
 
-For lines:
+First lines:
 
 
 ```
