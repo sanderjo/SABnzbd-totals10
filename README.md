@@ -96,5 +96,11 @@ or
 ```
 
 
+Within Python, you can do it more nicely:
 
+```
+>>> b[11]['newsreader.eweka.nl']['2020-11-11']
+21488221
+```
+So, from newsreader.eweka.nl, on 2020-11-11, SABnzbd downloaded 21488221 bytes.
 
